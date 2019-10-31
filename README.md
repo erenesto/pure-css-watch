@@ -2,4 +2,4 @@
 
 ![](swiss-design-watch.png)
 
-See on [Codepen](https://codepen.io/erenesto/pen/dybxGXw)
+**See on [Codepen](https://codepen.io/erenesto/pen/dybxGXw)**
